@@ -4,12 +4,12 @@ export default {
       {
         protocol: 'https',
         hostname: 'avatars.githubusercontent.com',
-        search: ''
+        pathname: '/**'
       },
       {
         protocol: 'https',
         hostname: '*.public.blob.vercel-storage.com',
-        search: ''
+        pathname: '/**'
       }
     ]
   }
